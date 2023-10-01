@@ -101,7 +101,7 @@
     "css-modules-require-hook": "^4.0.1",
     "electron-debug": "^1.0.1",
     "font-awesome": "^4.6.3",
-    "postcss": "^5.1.0",
+    "postcss": "^8.4.31",
     "react": "^15.3.0",
     "react-desktop": "^0.2.7",
     "react-dom": "^15.3.0",
